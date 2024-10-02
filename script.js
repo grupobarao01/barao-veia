@@ -33,6 +33,6 @@ class JogoDaVelha{
     }
     
     reiniciarTabuleiro(){
-        this.tabuleiro = arr
+        this.tabuleiro = array()
     }
 }
