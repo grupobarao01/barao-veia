@@ -31,5 +31,8 @@ class JogoDaVelha{
         document.getElementsById('vez-jogador')
         .textContent=`Vez de: ${vezJogador} ($ {this.jogadorAtual})`;
     }
-
+    
+    reiniciarTabuleiro(){
+        this.tabuleiro = arr
+    }
 }
